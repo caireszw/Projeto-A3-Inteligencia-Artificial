@@ -4,8 +4,10 @@
 
 
 ## INTEGRANTES GRUPO:
-
-* Matheus Caires Costa RA825127880
-* isabela lima alencar RA825110676
 * Aniel Paulo Nina Purga RA825157942
+* isabela lima alencar RA825110676
 * João Pedro de Oliveira Salazar RA 825133002
+* Matheus Caires Costa RA825127880
+
+
+
